@@ -1,0 +1,44 @@
+body{
+  font-family: 'Oswald', 'Open Sans';
+}
+
+.bg-morado{
+  background-color: #660066;
+}
+
+.logo, h2, h4{
+font-family: 'Oswald';
+font-weight: 700;
+}
+
+.jumbotron{
+  background: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 737px;
+}
+
+.carousel-indicators li{
+width: 10px;
+height: 10px;
+border-radius: 50%;
+}
+
+i{
+  color: #660066;
+}
+
+footer i{
+  color: white;
+}
+
+.sobre-mi{
+  font-family: 'Open Sans';
+  font-weight: 600;
+}
+
+p{
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
